@@ -3,13 +3,9 @@
 ## Table of Contents
 * [General Information] (#general-information)
 * [Technologies] (#technologiea)
-* [Setup] (#setup)
 
 ### General Information 
-info
+My project that I developed for A3 was a data visualisation of who is the most popular 5 star character in Genshin Impact. Genshin Impact is a gacha game that i have personaly interest in and have enjoyment from which inspired me to base my assignment around it.
 
 ### Technologies
-sjfjs
-
-### Setup
-my setup
+The resources I used were excel sheets to input my data into, which was then imported into a tableau sheet where I created the data visualisation.
